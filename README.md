@@ -6,16 +6,16 @@ Created as a practice project to learn Docker containerization and clean project
 ---
 
 ## 📚 Table of Contents
-1. [Technologies](#technologies)
-2. [Quickstart](#quickstart)
-3. [Project Structure](#project-structure)
-4. [.env Setup](#env-setup)
-5. [Live Demo](#live-demo)
-6. [Author](#author)
+1. [Technologies](#--technologies)
+2. [Quickstart](#--quickstart)
+3. [Project Structure](#--project-structure)
+4. [.env Setup](#--env-setup)
+5. [Live Demo](#--live-demo)
+6. [Author](#--author)
 
 ---
 
-## 🛠 Technologies
+## Technologies 🛠
 This project uses:
 
 - **Django** 4.0.2  
