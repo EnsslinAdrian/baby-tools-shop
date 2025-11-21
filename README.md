@@ -6,16 +6,16 @@ Created as a practice project to learn Docker containerization and clean project
 ---
 
 ## 📚 Table of Contents
-1. [Technologies](#--technologies)
-2. [Quickstart](#--quickstart)
-3. [Project Structure](#--project-structure)
-4. [.env Setup](#--env-setup)
-5. [Live Demo](#--live-demo)
-6. [Author](#--author)
+1. [Technologies](#technologies)
+2. [Quickstart](#quickstart)
+3. [Project Structure](#project-structure)
+4. [.env Setup](#env-setup)
+5. [Live Demo](#live-demo)
+6. [Author](#author)
 
 ---
 
-## Technologies 🛠
+## Technologies
 This project uses:
 
 - **Django** 4.0.2  
@@ -25,7 +25,7 @@ This project uses:
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ### Option A — Run with Docker (recommended)
 
@@ -103,7 +103,7 @@ python manage.py runserver
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 baby-tools-shop/
@@ -147,7 +147,7 @@ baby-tools-shop/
 
 ---
 
-## 🔐 .env Setup
+## .env Setup
 
 Copy template:
 
@@ -165,7 +165,7 @@ Paste the generated key into your `.env`.
 
 ---
 
-## 🌍 Live Demo
+## Live Demo
 
 The Babyshop application is deployed on a remote Linux server using Docker.
 You can access the live demo here:
@@ -174,7 +174,7 @@ You can access the live demo here:
 
 ---
 
-## 👤 Author
+## Author
 
 **Adrian Enßlin**
 
