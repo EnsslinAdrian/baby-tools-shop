@@ -1,0 +1,41 @@
+# Lokale virtuelle Umgebung niemals in Docker kopieren
+.venv/
+venv/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pyi
+*.so
+
+# Editor & IDE Ordner
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Media & Static (lokal generiert)
+media/
+static/
+
+# Build-Artefakte
+build/
+dist/
+
+# Docker Dateien selbst ignorieren wir natürlich nicht
+# Dockerfile
+# docker-compose.yml
+
+# Logs
+*.log
